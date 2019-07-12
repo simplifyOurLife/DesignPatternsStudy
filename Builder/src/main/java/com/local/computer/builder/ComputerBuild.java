@@ -4,11 +4,11 @@ import com.local.computer.builder.impl.ComputerBuilder;
 import com.local.computer.domain.*;
 
 /**
- * [description]
+ * 组装接口
  *
  * @Author: qyf
  * @Date: 2019-7-12 14:01
- * @Description: 说明
+ * @Description: 组装接口
  */
 public interface ComputerBuild {
 

@@ -1,11 +1,11 @@
 package com.local.simple;
 
 /**
- * [description]
+ * 用户
  *
  * @Author: qyf
  * @Date: 2019-7-10 14:39
- * @Description: 说明
+ * @Description: 用户
  */
 public class User {
 

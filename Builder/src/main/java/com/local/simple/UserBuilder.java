@@ -2,11 +2,11 @@ package com.local.simple;
 
 
 /**
- * [description]
+ * 用户构建者
  *
  * @Author: qyf
  * @Date: 2019-7-10 14:42
- * @Description: 说明
+ * @Description: 用户构建者
  */
 public class UserBuilder {
 
