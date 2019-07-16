@@ -1,4 +1,4 @@
-package com.local.simple;
+package com.local.simplefactory;
 
 
 /**

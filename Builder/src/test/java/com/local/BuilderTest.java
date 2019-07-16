@@ -2,11 +2,9 @@ package com.local;
 
 import com.local.computer.builder.impl.ComputerBuilder;
 import com.local.computer.domain.*;
-import com.local.simple.User;
-import com.local.simple.UserBuilder;
+import com.local.simplefactory.User;
+import com.local.simplefactory.UserBuilder;
 import org.junit.Test;
-
-import java.io.File;
 
 /**
  * 构建者模式测试类
