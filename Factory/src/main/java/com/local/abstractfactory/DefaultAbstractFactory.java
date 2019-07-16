@@ -9,7 +9,7 @@ import com.local.domain.Car;
  * @Date: 2019-7-15 17:41
  * @Description: 默认的汽车工厂--生产奇瑞牌汽车
  */
-public class DefaultFactory extends AbstractFactory {
+public class DefaultAbstractFactory extends AbstractFactory {
 
     private AbstractFactory defaultFactory = new AbstractCheryFactory();
 

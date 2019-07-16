@@ -56,7 +56,7 @@ public class FactoryTest {
     @Test
     public void testDefaultAbstractFactory() {
         // 1. 创建默认抽象汽车工厂
-        DefaultFactory defaultFactory = new DefaultFactory();
+        AbstractFactory defaultFactory = new DefaultAbstractFactory();
         // 2. 制造出默认品牌的汽车
         Car defaultCar = defaultFactory.getCar();
         // 3. 查看默认的汽车品牌
